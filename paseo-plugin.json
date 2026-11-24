@@ -1,0 +1,10 @@
+{
+  "id": "antigravity-plus",
+  "name": "Antigravity Pro",
+  "description": "Antigravity provider with full conversation history replay and proxy support.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "requirements": {
+    "paseo": ">=0.10.0"
+  }
+}
